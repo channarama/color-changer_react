@@ -1,7 +1,7 @@
 .css{
   color: rgb(156, 180, 201);
-  width: 50px;
-  height: 25px;
+  width: 75px;
+  height: 35px;
   border-radius: 5px;
 margin-left: 20px;
 
@@ -9,9 +9,14 @@ margin-left: 20px;
 .css:hover
 {
   transform: scale(0.9);
-  text-decoration-line: line-through;
-  transition: 25ms;
 }
 .a{
   background-color: black;
+}
+.co{
+  display: flex;
+  background-color: antiquewhite;
+  position: fixed;
+ width: 100%;
+ padding: 10px;
 }
